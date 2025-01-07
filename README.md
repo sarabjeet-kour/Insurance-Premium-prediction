@@ -1,1 +1,1 @@
-# Insurance-Premium-prediction
+The goal of this project is to predict health insurance premiums based on various personal and health-related factors using a Linear Regression model. By accurately predicting premiums, the model aids in better risk assessment and helps policyholders and insurance companies make informed decisions about health insurance coverage.
